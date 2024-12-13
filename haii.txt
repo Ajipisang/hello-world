@@ -5,3 +5,5 @@ lorem ipsum sir amet doloret lorem lorem ipsum
 
 
 ini adalah fitur baru ke 2
+
+ini adalah fitur 3
